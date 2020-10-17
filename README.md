@@ -51,11 +51,11 @@ deploy.
 
 1.  Configure gcloud with your project ID.
 
-        gcloud config set project YOUR-PROJECT-ID
+        gcloud config set project YOUR-PROJECT-ID  #Enter Your Project ID
 
 1.  Use gcloud to deploy your app.
 
-        gcloud app deploy REPO_NAME/
+        gcloud app deploy REPO_NAME/   
 
 1.  Congratulations!  Your application is now live at
     your-project-id.appspot.com
